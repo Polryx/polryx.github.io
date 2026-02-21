@@ -12,11 +12,11 @@
 	font-weight: 500;
 	font-size: 36px;
 	text-shadow: rgb(0, 0, 0) 2px 2px 2px;
-	color: white;
+	color: black;
 }
 
 .metricContainer {
-	padding: 0px 10px;
+	padding: 0px 20px;
 }
 
 .icon {
