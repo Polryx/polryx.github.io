@@ -12,8 +12,8 @@
 	
 	font-weight: 500;
 	font-size: 36px;
-	text-shadow: rgb(0, 0, 0) 0px 0px 0px;
-	color: #57CFFF;
+	text-shadow: white 0px 0px 3px;
+	color: white;
 }
 
 .metricContainer {
